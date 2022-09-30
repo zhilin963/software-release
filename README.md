@@ -9,6 +9,7 @@ This is a smart contract written in Solidity, which the Agent uses to release th
 
 * **File Storage**  
 Agent hosts the new versions of a software on cloud resources (e.g. AWS, Google Cloud) and is responsible for safekeeping of the URL to access the software and the required password.
-* **Writing Smart Contract**
+* **Writing Smart Contract**  
+Agent writes smart contracts to release the software to specific Licensee at an agreed time when the release condition is triggered, which is clarified in a pre-signed commercial contract.
 * **Storage Link Release**
 * **File Download**
