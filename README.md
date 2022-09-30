@@ -17,4 +17,7 @@ Agent writes a smart contract whicih needs to contain the agreed release date, t
 Once the release condition is triggered, Agent sends the software link to the specific Licensee on an agreed date through the smart contract, and Licensee gets the link and other necessary information through the smart contract as well.  
 
 * **File Download**  
-Licensee downloads the software through the obtained link from smart contract.
+Licensee downloads the software through the obtained link from smart contract.  
+
+## 3. Functional Design
+<div align=center><img width="200" height="600" src="https://github.com/zhilin963/software-release/blob/main/IMG/contract1.jpg" />  </div>
