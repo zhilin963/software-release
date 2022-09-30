@@ -11,7 +11,9 @@ This is a smart contract written in Solidity, which the Agent uses to release th
 Agent hosts the new versions of a software on cloud resources (e.g. AWS, Google Cloud) and is responsible for safekeeping of the URL to access the software and the required password.  
 
 * **Writing Smart Contract**  
-Agent writes smart contracts to release the software to specific Licensee at an agreed time when the release condition is triggered, which is clarified in a pre-signed commercial contract. The smart contract needs to contain the agreed release date, the address of the specific Licensee, and a link to access the software.  
+Agent writes smart contracts to release the software to a specific Licensee at an agreed time when the release condition is triggered, which is clarified in a pre-signed commercial contract. The smart contract needs to contain the agreed release date, the address of the specific Licensee, and a link to access the software.  
 
-* **Storage Link Release**
+* **Storage Link Release**  
+Once the release condition is triggered, the Agent sends the software link to the specific Licensee through the smart contract, and the Licensee gets link and other necessary information through the smart contract as well.  
+
 * **File Download**
