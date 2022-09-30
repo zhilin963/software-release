@@ -14,7 +14,7 @@ Agent hosts the new version of a software on cloud resources (e.g. AWS, Google C
 Agent writes a smart contract whicih needs to contain the agreed release date, the address of the specific Licensee, and a link to access the software. The release condition is clarified in a pre-signed commercial contract.  
 
 * **Storage Link Release**  
-Once the release condition is triggered, the Agent sends the software link to the specific Licensee on an agreed date through the smart contract, and the Licensee gets link and other necessary information through the smart contract as well.  
+Once the release condition is triggered, Agent sends the software link to the specific Licensee on an agreed date through the smart contract, and Licensee gets the link and other necessary information through the smart contract as well.  
 
 * **File Download**  
 Licensee downloads the software through the obtained link from smart contract.
