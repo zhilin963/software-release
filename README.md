@@ -16,4 +16,5 @@ Agent writes smart contracts to release the software to a specific Licensee at a
 * **Storage Link Release**  
 Once the release condition is triggered, the Agent sends the software link to the specific Licensee through the smart contract, and the Licensee gets link and other necessary information through the smart contract as well.  
 
-* **File Download**
+* **File Download**  
+Licensee downloads the software through the obtained link from smart contract.
