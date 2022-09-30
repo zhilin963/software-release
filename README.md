@@ -20,4 +20,4 @@ Once the release condition is triggered, Agent sends the software link to the sp
 Licensee downloads the software through the obtained link from smart contract.  
 
 ## 3. Functional Design
-<div align=center><img width="200" height="600" src="https://github.com/zhilin963/software-release/blob/main/IMG/contract1.jpg" />  </div>
+<div align=center><img width="300" height="500" src="https://github.com/zhilin963/software-release/blob/main/IMG/contract1.jpg" />  </div>
