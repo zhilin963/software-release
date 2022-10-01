@@ -8,7 +8,7 @@ This is a smart contract written in Solidity, which the Agent uses to release th
 <div align=center><img width="600" height="400" src="https://github.com/zhilin963/software-release/blob/main/IMG/release2licensee.jpg" />  </div>
 
 * **File Storage**  
-Agent hosts the new version of a software on cloud resources (e.g. AWS, Google Cloud) and is responsible for safekeeping of the URL to access the software and the required password.  
+Agent hosts the new version of a software on cloud resources (e.g. AWS, Google Cloud) and is responsible for safekeeping of the link to access the software and the required password.  
 
 * **Writing Smart Contract**  
 Agent writes a smart contract which needs to contain the agreed release date, the address of the specific Licensee, and a link to access the software. The release condition is clarified in a pre-signed commercial contract.  
