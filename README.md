@@ -5,6 +5,8 @@ Smart contract written in Solidity
 This is a smart contract written in Solidity, which the Agent uses to release the new version of a software to the Licensee. Smart contracts ensure that the software can only be released to a specific Licensee on an agreed date.
 
 ## 2. Operations
+Agent needs to release the latest version of a software to the Licensee, but instead of handing over the source code directly, Agent hosts the software on the cloud platform and then writes a smart contract to release the private link to the Licensee. Through this private link, Licensee can get the software and other related information.  
+To achieve these purposes, Agent writes the smart contract **softwareRelease.sol** and publishes it on the blockchain. Afterwards, Agent distributes the software to Licensee through this smart contract.
 <div align=center><img width="600" height="400" src="https://github.com/zhilin963/software-release/blob/main/IMG/release2licensee.jpg" />  </div>
 
 * **File Storage**  
